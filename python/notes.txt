@@ -1,1 +1,29 @@
 I will be taking notes while taking this course. This will be cumulative so there will be an update every video.
+I find it more difficult to create new notes.txt file in each section. I can easily come back to this file and search anything.
+
+-----
+01 Course Introduction
+
+vid 001
+Broad course to introduce you other topics such as building websites, game development, etc.
+Walks through curriculum.
+
+vid 002
+Python2 vs Python3
+Creator of python Guido van Rossum was unhappy of early python. so he overhaulted python and made changes
+Pyth3 is not backwards compatible. Taken a long time for people to switch over. Python2.x is still used 
+Python 3 is easier to learn. Many of the old complaints where fixed.
+Python 2 will be retired. (Retired right now)
+
+vid 003
+course filled with exercises
+Talks about exercise feature in Udemy
+
+vid 004
+flowchart on where you should start in the course
+There is a MAC and PC section. everything will then dive into python syntax.
+
+vid 005
+explains how his videos are structured.
+
+-----
