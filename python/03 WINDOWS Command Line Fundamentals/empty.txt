@@ -1,0 +1,5 @@
+This is a placeholder file.
+
+This course section may be empty.
+This course section may also require no python files.
+This course section may also be skipped because it was not necessary (example. Section 2 is for MAC users)
