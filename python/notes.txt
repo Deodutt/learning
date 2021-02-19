@@ -27,3 +27,43 @@ vid 005
 explains how his videos are structured.
 
 -----
+
+
+
+-----
+02 MACLINUX Command Line Fundamentals
+
+vid 006
+skipped section
+
+vid 007
+skipped section
+
+vid 008
+skipped section
+
+vid 009
+skipped section
+
+vid 010
+skipped section
+
+vid 011
+skipped section
+
+vid 012
+skipped section
+
+vid 013
+skipped section
+
+vid 014
+skipped section
+
+vid 015
+skipped section
+
+vid 016
+skipped section
+
+-----
