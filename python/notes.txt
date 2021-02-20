@@ -122,4 +122,28 @@ to remove directory
 rm -r -fo foldername
 -r means recursive
 -fo means force to prevent warnings
+
 -----
+
+
+----------
+04 MAC Python Setup
+
+vid 025
+skipped section
+
+vid 026
+skipped section
+
+vid 027
+skipped section
+
+vid 028
+skipped section
+
+vid 029
+skipped section
+
+-----
+
+
