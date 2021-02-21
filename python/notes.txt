@@ -147,3 +147,38 @@ skipped section
 -----
 
 
+
+----------
+05 WINDOWS Python Setup
+
+vid 030
+Installing python for windows.
+Once installed, restart powershell/terminal
+
+when you type python it opens a REPL
+REPL : Read, Evaluate, Print, Loop
+
+quit() to end 
+
+vid 031
+showing text editor sublime
+shows basic use of sublime. color schemes
+
+vid 032
+show how to use print() function
+show how to run python files.
+python first_program.py
+python <filename>
+if it prints nothing. it ran it and no errors.
+
+print() function
+print("Hello!")
+function prints out to shell/terminal
+
+vid 033
+skipped
+
+vid 034
+difference between typing 5 and print(5)
+if you put 43+1 in python file. when running it executes but doesnt print anything.
+-----
