@@ -182,3 +182,58 @@ vid 034
 difference between typing 5 and print(5)
 if you put 43+1 in python file. when running it executes but doesnt print anything.
 -----
+
+
+
+----------
+06 Numbers Operators and Comments
+
+vid 035
+section introduce
+take real world math and do it in python
+how data is represented in code. store number of shoes. store age of user.
+difference between ints and floats
+work with simple math Operators
+adding comments to code
+
+vid 036
+interger whole Numbers: positive or negative
+floats are decimals also: postive or negative
+
+decimals takes up more space than whole number
+
+python is not just a calcutlaor but you can use it as one.
+
+if any part of equation is a float. the answer is a float
+
+vid 037
+operators in math
++ addition
+- subtraction
+* multiplication
+/ division
+** exponentiation 
+% modulo
+// integer division
+
+division always returns a float
+PEMDAS
+
+vid 038
+comments are a way for us to write notes.
+can make comments by using #
+#
+comments dont show in python output
+comments help other developers 
+
+vid 039
+talks about
+** :used to give a number to power.
+% modulo; kinda like division but its the remainder operator. divides as many times as it can and then gives remainder.
+used to see if a number is even or odd
+
+// : interger division: if you dont want remainder float when dividing, it gives int value
+
+vid 040
+talks about python documentation.
+-----
