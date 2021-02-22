@@ -236,4 +236,152 @@ used to see if a number is even or odd
 
 vid 040
 talks about python documentation.
+use python 3.x on python.org
+there are tutorials.
+if you have a quetsionabout built in functions like print, it gives details of how it uses it
+
+-----
+
+
+
+----------
+07 Variables and Strings
+
+vid 041
+Talks about variables and data types in this section (mostly strings)
+how to assign and use variables
+naming restrictions and conventions
+different data types in pythonhow to convert data types
+learn why python is called a dynamically type langauge
+build a program to get user input
+
+vid 042
+variables are like containers that store data and can be obtained back
+they can hold numbers booleans and strings
+variables in python are like variables in math (e.g. 2x 4x 3x)
+
+x = 100
+mother_of_dragons = 1
+print (mother_of_dragons + x)
+
+most of data is not static. So we might not know what the value is.
+variablename = variablevalue
+
+variables can be assigned to other variables. reassigned at any time
+
+vid 043
+skipped
+
+vid 044
+naming restrictions
+1. Variables have to start with a letter or underscore
+_2cats is good
+
+2. The rest of name must consist of letters numbers or underscores. (no @ symbols)
+
+3. Names are case-sensitive!
+
+
+Naming Conventions = most things people think you should do
+most variables should be snake_case
+camel case is camelCase
+
+most variables should be lowercase
+
+CAPITAL_SNAKE_CASE usually refers to constants
+UpperCamelCase are referred to a class
+
+variablkes that start and end with two underscores are called dunder.
+dunders are private and should be left alone
+__no_touchy__
+
+vid 045
+data types
+in any assignment the value must be always a valid data type.
+
+bool : true or false values
+you could use a number to store a yes or no value. but if we only want true of false, you have more space for true or false than an integer
+Python recognizes True and False only if its capital.
+
+
+
+int : an integer (1, 2, 3)
+str : string a sequence of unicode characters (example. Ricardo)
+strings are characters. they are in between quotes
+
+list : an ordered sequence of values of other data types (example. [1,2,3])
+You can store data inside a list and theres an order
+
+
+dict : a collection of key values (example {"first_name: "Ricardo", "last_name":"Deodutt"})
+dictionary are pairs that are stored together. rather than two seperate values, you can store them together.
+
+vid 046
+dynamic typing
+python is very flexiable about reassigning varaiables to different types
+it allows us to have variables change type
+None is another value that python recongizes as nothing.
+c++ are statically typed. they are stuck to their original assigned type
+
+vid 047
+shwoing value None
+None is a speical case like True or False
+None represents an idea of nothing. In other languages its like null.
+You want a child to exisit and have a container but there is nothing to put in there.
+
+vid 048
+declaring strings
+you can use single or double quotes as long as your consistent
+"" ''
+
+vid 049
+skipped
+
+vid 050
+string escape characters
+in strings, we have specical squeiences that will be transformed by python to do something
+\n will create a new line
+
+to add a regular \ then you have to put \\
+
+vid 051
+skipped
+
+vid 052
+string concatenation
+adding two strings together
+
+vid 053
+skipped
+
+vid 054
+formatting strings
+interpolate
+new way is F-Strings
+print(f"test {x} was wrong!!)
+
+there is another method called the format method.
+
+vid 055
+talks about udemy exercises. skipped
+
+vid 056
+skipped
+
+vid 057
+talks about index locations name[1] name[2]
+talks about how to locate an index.
+
+vid 058
+data types
+how to convert data types
+
+you convert varaibles by using the name of the builtin type as a function
+int(decimal)
+
+str is reserved
+
+vid 059
+budiling a mileage converter
+take km and convert them to miles
 -----
