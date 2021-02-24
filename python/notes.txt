@@ -385,3 +385,111 @@ vid 059
 budiling a mileage converter
 take km and convert them to miles
 -----
+
+
+
+----------
+08 Boolean and Conditional Logic
+
+vid 060
+Introduction
+its an important topics
+boolean true or false
+deciesions based on true or false
+code to have multiple outcomes
+learn how to get user input in python (continued)
+truthiness
+
+vid 061
+input function
+prompts user and stores the result in a varaible
+whatever user types is stored in data
+result is always a string and saved into the variable
+
+vid 062
+conditional statements
+if somecondtion is true:
+    do something
+elif some other condition is true:
+    do something
+else:
+    do something
+
+you do not need an elif or else
+you can have multiple elifs
+
+== is used to check equality
+= is used to assign
+
+indentation matters
+: matters. if not syntax error
+
+vid 063
+skipped
+
+vid 064
+skipped
+
+vid 065 - logic.py
+showing you can have mutliple elifs
+
+vid 066
+truthiness and falsyness
+in python all conditional checks resolve to true or false.
+thinbgs that are false conditions naturally falsy are empty objects, strings, None and zero. ***
+
+if 0:
+    print("YAY~")
+if 1:
+    print("yay??")
+
+    this tells us the number 1 is truthy. 0 has an inherit falsyness
+
+    any string that isnt empty  is truthiy.
+
+
+vid 067
+comparision operators lets us compare different operators
+== turthity if a is equal to back a==b #true
+!= truhity if a does not have the same vlaue as b a != b #false
+> truthy if a is greater than b a > b #false
+< truthy if a is less than b #false
+>= truthy if a is greater than or equal to b #true
+<= truthy if a is less than or equal to  b #true
+
+vid 068 - and.py or.py
+combining comapraison operators to make logical operators 
+let us make complex statements
+and : both a and b need to be true.
+or : either a or b need to be true
+not
+
+vid 069
+skipped
+
+vid 070
+not logical operator
+if not <value>
+1 < 2 # true
+not 1 < 2 #false
+
+vid 071 optional?
+how things are stored in memory in python
+is vs "=="
+whats the difference
+
+the difference is == is checking if the values are the same. a is b is checking to see if they are stored in the same place in memeroy.
+
+== checks values
+is checks for if same in memory.
+
+vid 072 - bouncer.py
+bouncer code along
+
+vid 073
+skipped
+
+vid 074
+skipped
+
+-----
