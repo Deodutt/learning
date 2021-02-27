@@ -493,3 +493,40 @@ vid 074
 skipped
 
 -----
+
+
+
+----------
+09 Rock Paper Scissors
+
+vid 075
+First of project section
+A break from lecturing.
+giving prompt
+
+vid 076 - v1.py
+walkthrough of rock paper scissors code
+
+vid 077 - v2.py
+refactored version of rock paper scissors code
+
+vid 078
+skipped
+
+vid 079
+giving a challenge
+rock paper scissor code with a computer instead of a second local player
+introducing randint function -> you need to import
+
+vid 080
+giving solution for vid079 challenge
+import random
+random.randint(0, 2) #gives a number including 0, 1, 2
+
+how to make everything case sensitive
+make the user input lowercase
+hello.lower()
+
+v4 has a little alter I did on my own
+
+-----
