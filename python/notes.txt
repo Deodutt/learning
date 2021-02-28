@@ -530,3 +530,85 @@ hello.lower()
 v4 has a little alter I did on my own
 
 -----
+
+
+
+----------
+10 Looping in Python
+
+vid 081
+Introduction to Loops
+used to automate and repeat things
+print numbers 1 trough 7. You could have 7 prints
+taking data and doing something to each of it
+
+vid 082
+skipped
+
+vid 083 - for.py
+basics of for loops
+collection of data we can loop through.
+[40, 32, 73]
+"hello"
+range(1, 10)
+we can loop to them
+
+[for] and [in] dont change
+
+for item in iterable_object:
+    #do something with item
+
+an iteratable object is a collection of items like above. A list, a string, a range.
+
+item  is a new variable that can be called whatever you want. temp variable
+
+item references the current position of our iterator within the iterable. it will iterate over (go through) every item of the collection and then go away when it has visited all items.
+
+range is a way to quickly generate numbers
+
+vid 084 - range.py
+explaining ranges in depth
+ranges is traditionally used with for loops
+and to know for loops you need ranges
+
+ranges are simple ways ot generating sequences of numbers
+
+range(7) gives you integers from 0 thru 6 
+
+range(1, 8) gives you integers from 1 to 7
+
+range(1, 10, 2) will give you odd numbers from 1 to 10. the 3rd number is the interveal. generate numbers from 1 to 10 (not including 10) and skipping two numbers
+
+range(7, 0, -1) you will get the numbers 7 to 1
+
+vid 085
+skipped
+
+vid 086 - repeater.py
+quick exercise
+
+vid 087 - numbers.py
+more complex exercise
+
+vid 088
+while loops
+
+while loops continue to execute while a certain condition is truthy.
+while loops continue running. it can go forever if u dont have a termination
+while loops could run 10k times or once.
+if you have a set number of loops then use for loops
+
+vid 089 - art.py
+quick while and for loop exercise
+
+vid 090 - sister.py
+quick exercise using while loop that cannot be made with for loop
+
+vid 091 - break.py
+exiting loops in a controlled manner.
+one case you want to quit early.
+break gives us the ability to exit out while loops whenever we want.
+
+vid 092
+skipped
+-----
