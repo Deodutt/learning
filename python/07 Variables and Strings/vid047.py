@@ -2,8 +2,6 @@
 # none
 
 
-
-
 name = "Daisy"
 age = 30
 child = None
@@ -15,5 +13,3 @@ type(child)
 name = "Dusty"
 age = 30
 child = "Pamela"
-
-

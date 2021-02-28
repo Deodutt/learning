@@ -6,5 +6,4 @@ else:
     print("you live somewhere else")
 
 
-
 # 1 < 3 or 1 == 99 #the first side is right. so entire thing is true

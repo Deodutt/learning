@@ -10,5 +10,5 @@ str = "This is a backlash\\"
 str = "Hel\blo"
 
 # if you want double quotes
-str = "he said hah haha \" haha \""
+str = 'he said hah haha " haha "'
 print(str)
