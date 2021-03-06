@@ -612,3 +612,31 @@ break gives us the ability to exit out while loops whenever we want.
 vid 092
 skipped
 -----
+
+
+
+----------
+11 Guessing Game
+
+vid 093
+two mini projects using loops
+1. guessing game computer pick a number and you guess
+
+vid 094
+solutions for guessing game
+
+vid 095
+improving rock paper scissors code
+Adding a loop to rock paper scissors
+v5.py
+
+vid 096
+how should i style my code? 
+one standard that everyone should follow
+PEP8 style guide
+HOW MANY BLANK LINES
+once you have defined a function you should have two blank lines above
+stuff like that
+tools help us
+autopep8
+-----
